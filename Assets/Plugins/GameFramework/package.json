@@ -1,0 +1,11 @@
+{
+  "name": "com.alpha.gameframework",
+  "version": "1.0.0",
+  "displayName": "Alpha Game Framework",
+  "description": "拥抱世界喵~",
+  "unity": "2021.3",
+  "author": {
+    "name": "AllToBeNize",
+    "email": "AllToBeNize@example.com"
+  }
+}
