@@ -1,0 +1,11 @@
+{
+  "name": "com.yorha.gameframework.core",
+  "version": "1.0.0",
+  "displayName": "[Core] YoRHa Game Framework",
+  "description": "[核心模块]\n -人类荣光永存！",
+  "unity": "2021.3",
+  "author": {
+    "name": "AllToBeNize",
+    "email": "2184196946@qq.com"
+  }
+}

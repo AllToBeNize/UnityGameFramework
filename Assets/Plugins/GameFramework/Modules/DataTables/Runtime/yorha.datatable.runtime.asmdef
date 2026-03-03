@@ -1,0 +1,16 @@
+{
+    "name": "YoRHa.Datatable.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9ff9d30ada62ee6438124d99eeb960ff"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

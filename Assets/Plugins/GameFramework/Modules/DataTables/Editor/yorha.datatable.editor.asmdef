@@ -1,0 +1,19 @@
+{
+    "name": "YoRHaDataTableEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9ff9d30ada62ee6438124d99eeb960ff",
+        "GUID:38f14a72b4203864ba68cf549946108d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,11 +1,11 @@
 {
-  "name": "com.alpha.gameframework",
+  "name": "com.yorha.gameframework",
   "version": "1.0.0",
-  "displayName": "Alpha Game Framework",
-  "description": "拥抱世界喵~",
+  "displayName": "YoRHa Game Framework",
+  "description": "人类荣光永存！",
   "unity": "2021.3",
   "author": {
     "name": "AllToBeNize",
-    "email": "AllToBeNize@example.com"
+    "email": "2184196946@qq.com"
   }
 }

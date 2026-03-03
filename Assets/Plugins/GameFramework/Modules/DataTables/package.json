@@ -1,0 +1,11 @@
+{
+  "name": "com.yorha.gameframework.datatable",
+  "version": "1.0.0",
+  "displayName": "[DataTable] YoRHa Game Framework",
+  "description": "[DataTable拓展]\n -人类荣光永存！",
+  "unity": "2021.3",
+  "author": {
+    "name": "AllToBeNize",
+    "email": "2184196946@qq.com"
+  }
+}
